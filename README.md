@@ -3,7 +3,7 @@
 
 ### How to Cite us ?  
 Please cite follow work, if you use this code:  
-Yuxing Wang, Kaiyin Zhou, Mina Gachloo, Jingbo Xia*.** An Overview of the Active Gene Annotation Corpus and the BioNLP OST 2019 AGAC Track Tasks.** BioNLP Open Shared Task 2019, workshop in EMNLP-IJCNLP 2019. Page: 62-71, Hong Kong, 2019.
+Yuxing Wang, Kaiyin Zhou, Mina Gachloo, Jingbo Xia*. **An Overview of the Active Gene Annotation Corpus and the BioNLP OST 2019 AGAC Track Tasks.** BioNLP Open Shared Task 2019, workshop in EMNLP-IJCNLP 2019. Page: 62-71, Hong Kong, 2019.
 
 
 ### Virtual Environment
@@ -82,7 +82,8 @@ The current model evaluation uses the Conlleval.pl script. You can view the deta
  
  **Model** | **Accuracy**  | **Precision** | **Recall**    | **F1-score**
  ---- | ----- | ------  | ------    | ------ 
- **BERT+CRF**  | **95.7730** | **54.6274**| **56.4596**| **55.5284**
+ **BERT+CRF+AGAC.V3**  | **95.7730** | **54.6274**| **56.4596**| **55.5284**  
+ **BioBERT (WordPiece)+CRF+AGAC.V3**  | **94.4856** | **87.1869**| **88.7542**| **87.9635**
 
 
 ### Reference
