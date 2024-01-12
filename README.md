@@ -2,7 +2,7 @@
 
 
 ### How to Cite us ?  
-Please cite follow work, if you use this code:  
+Please cite the following work, if you use this code:  
 Yuxing Wang, Kaiyin Zhou, Mina Gachloo, Jingbo Xia*. **An Overview of the Active Gene Annotation Corpus and the BioNLP OST 2019 AGAC Track Tasks.** BioNLP Open Shared Task 2019, workshop in EMNLP-IJCNLP 2019. Page: 62-71, Hong Kong, 2019.
 
 
